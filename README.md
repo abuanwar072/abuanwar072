@@ -26,19 +26,17 @@
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" title="Dart" width="22" height="22"/> 
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/django.svg" alt="django" title="Django" width="22" height="22"/> 
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" title="figma" width="22" height="22"/> 
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" title="Figma" width="22" height="22"/> 
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg" alt="firebase" title="Firebase" width="22" height="22"/> 
   <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" title="Flask" width="22" height="22"/> 
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="22" height="22"/> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="22" height="22"/> 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linux.svg" alt="linux" width="22" height="22"/>
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mysql.svg" alt="mysql" width="22" height="22"/> 
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/postgresql.svg" alt="postgresql" width="22" height="22"/> 
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" alt="python" width="22" height="22"/> 
-  <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="22" height="22"/> 
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/swift.svg" alt="swift" width="22" height="22"/>
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/figma.svg" alt="swift" width="22" height="22"/>
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/flask.svg" alt="swift" width="22" height="22"/>
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" title="Flutter" width="22" height="22"/> 
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="Git" width="22" height="22"/> 
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linux.svg" alt="linux" title="Linux" width="22" height="22"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mysql.svg" alt="mysql" title="Mysql" width="22" height="22"/> 
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/postgresql.svg" alt="postgresql" title="Postgresql" width="22" height="22"/> 
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" alt="python" title="Python" width="22" height="22"/> 
+  <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" title="Sketch" width="22" height="22"/> 
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/swift.svg" alt="swift" title="Swift" width="22" height="22"/>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuanwar072&layout=compact&hide=html" alt="abuanwar072" /></p>
