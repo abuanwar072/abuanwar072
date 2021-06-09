@@ -24,11 +24,11 @@
 ### Languages and Tools:
 
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="22" height="22"/> 
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/django.svg" alt="django" width="22" height="22"/> 
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="22" height="22"/> 
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg" alt="firebase" width="22" height="22"/> 
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="22" height="22"/> 
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" title="Dart" width="22" height="22"/> 
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/django.svg" alt="django" title="Django" width="22" height="22"/> 
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" title="figma" width="22" height="22"/> 
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg" alt="firebase" title="Firebase" width="22" height="22"/> 
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" title="Flask" width="22" height="22"/> 
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="22" height="22"/> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="22" height="22"/> 
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linux.svg" alt="linux" width="22" height="22"/>
