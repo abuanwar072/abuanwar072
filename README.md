@@ -36,7 +36,10 @@
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/postgresql.svg" alt="postgresql" width="22" height="22"/> 
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" alt="python" width="22" height="22"/> 
   <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="22" height="22"/> 
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/swift.svg" alt="swift" width="22" height="22"/></p>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/swift.svg" alt="swift" width="22" height="22"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/figma.svg" alt="swift" width="22" height="22"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/flask.svg" alt="swift" width="22" height="22"/>
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuanwar072&layout=compact&hide=html" alt="abuanwar072" /></p>
 
