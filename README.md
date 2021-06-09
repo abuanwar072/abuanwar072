@@ -24,9 +24,9 @@
 ### Languages and Tools:
 
 <p align="left"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="22" height="22"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="22" height="22"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django.svg" alt="django" width="22" height="22"/> 
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="22" height="22"/> 
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="22" height="22"/> 
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebas.svg" alt="firebase" width="22" height="22"/> 
   <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="22" height="22"/> 
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="22" height="22"/> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="22" height="22"/> 
