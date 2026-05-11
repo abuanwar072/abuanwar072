@@ -73,7 +73,9 @@ Full speaker profile → [sessionize.com](https://sessionize.com/)
 
 ### Latest from The Flutter Way
 
-<!-- YOUTUBE:START -->- [Flutter Animated Dot Indicator](https://www.youtube.com/watch?v=M9i8ayJgMI8)- [Indicator Animation with Flutter](https://www.youtube.com/watch?v=xqAT-yJTTwM)- [Splash Screen Animation with Flutter](https://www.youtube.com/watch?v=Uoseoozsuiw)- [Build a Chat App with AI](https://www.youtube.com/watch?v=dQ0iYEcUq6A)- [Flutter Drag Animation - Todo Animated App](https://www.youtube.com/watch?v=L_Q5fRhwHPE)<!-- YOUTUBE:END -->
+<table>
+<!-- YOUTUBE:START --><!-- YOUTUBE:END -->
+</table>
 
 → [Subscribe on YouTube](https://www.youtube.com/c/TheFlutterWay)
 
@@ -81,7 +83,9 @@ Full speaker profile → [sessionize.com](https://sessionize.com/)
 
 ### Latest writing
 
-<!-- BLOG-POST-LIST:START -->- [Flutter App Logging — The Production Way](https://blog.stackademic.com/flutter-app-logging-the-production-way-0e9ff6a9c3e2?source=rss-ca04fd4a9d31------2)- [Nowa the best FlutterFlow alternative — Why?](https://theflutterway.medium.com/nowa-the-best-flutterflow-alternative-why-316ae6c85642?source=rss-ca04fd4a9d31------2)- [Best AI App Builder —  My Top Picks](https://theflutterway.medium.com/best-ai-app-builder-my-top-picks-0b1d5252dfb2?source=rss-ca04fd4a9d31------2)- [How I Became a Google Developer Expert &lpar;and How You Can, Too&rpar;](https://theflutterway.medium.com/how-i-became-a-google-developer-expert-and-how-you-can-too-dbae87eb0c4b?source=rss-ca04fd4a9d31------2)- [Flutter’s Integration with Native Platforms](https://medium.com/flutter-community/flutters-integration-with-native-platforms-3ab887a86220?source=rss-ca04fd4a9d31------2)<!-- BLOG-POST-LIST:END -->
+<table>
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+</table>
 
 → [Read on DEV.to](https://dev.to/abuanwar072) · [Medium](https://medium.com/@theflutterway)
 
