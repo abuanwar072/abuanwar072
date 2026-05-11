@@ -73,8 +73,7 @@ Full speaker profile → [sessionize.com](https://sessionize.com/)
 
 ### Latest from The Flutter Way
 
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
+<!-- YOUTUBE:START -->- [Flutter Animated Dot Indicator](https://www.youtube.com/watch?v=M9i8ayJgMI8)- [Indicator Animation with Flutter](https://www.youtube.com/watch?v=xqAT-yJTTwM)- [Splash Screen Animation with Flutter](https://www.youtube.com/watch?v=Uoseoozsuiw)- [Build a Chat App with AI](https://www.youtube.com/watch?v=dQ0iYEcUq6A)- [Flutter Drag Animation - Todo Animated App](https://www.youtube.com/watch?v=L_Q5fRhwHPE)<!-- YOUTUBE:END -->
 
 → [Subscribe on YouTube](https://www.youtube.com/c/TheFlutterWay)
 
